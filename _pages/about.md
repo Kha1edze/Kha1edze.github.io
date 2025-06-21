@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming graduate student from Monash University Malaysia. My research interest includes computer vision and machine learning.
+I'm an graduate student from Monash University Malaysia.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
