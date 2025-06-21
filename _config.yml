@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "MA RUNZE"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "MA RUNZE"
 description              : &description "personal description"
 url                      : https://Kha1edze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "MA RUNZE"
-  pronouns         : "He/His"  
+  # pronouns         : "He/His"  
   bio              : "This is me"
   location         : "Malaysia"
   employer         : "Monash University Malaysia"
