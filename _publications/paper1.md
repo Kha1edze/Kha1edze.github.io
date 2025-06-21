@@ -2,7 +2,7 @@
 title: "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper proposes a CNN classification network based on Bagging and stacking ensemble learning methods for breast cancer classification.'
 date: 2023-11-21
 venue: '2023 3rd International Conference on Electronic Engineering (ICEEM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10319517'
