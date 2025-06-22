@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ma Runze's personal page-an AI enthusiast sharing practical projects and ideas."
+title: "Welcome to Ma Runze's personal page."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,4 +17,4 @@ I'm especially interested in using generative AI to create value in education, p
 
 Currently open to collaboration, startup opportunities, and AI x product co-creation.
 
-You can find my CV here:[CV](../files/resume.pdf)[CV_zh](../files/resume_zh.pdf).
+You can find my CV here:[CV](../files/resume.pdf) and Chinese version [CV_zh](../files/resume_zh.pdf).
