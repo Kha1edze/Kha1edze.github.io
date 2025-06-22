@@ -17,4 +17,4 @@ I'm especially interested in using generative AI to create value in education, p
 
 Currently open to collaboration, startup opportunities, and AI x product co-creation.
 
-You can find my CV here:[CV](../files/resume.pdf) and Chinese version [CV_zh](../files/resume_zh.pdf).
+You can find my CV here [CV](../files/resume.pdf) and Chinese version [CV_zh](../files/resume_zh.pdf).
