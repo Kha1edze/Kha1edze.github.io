@@ -16,7 +16,7 @@ Education
 * **Huazhong University of Science and Technology**, 2020-2024
   * B.Eng. in Automation
 
-Work experience
+Experience
 ======
 * *Mar 2024 - Present:* **AI Operator and Developer**
   * ANTALYA TECH       
