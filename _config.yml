@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MA RUNZE"
+title                    : "Ma Runze"
 title_separator          : "-"
-name                     : &name "MA RUNZE"
+name                     : &name "Ma Runze"
 description              : &description "personal description"
 url                      : https://Kha1edze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Kha1edze/Kha1edze.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "MA RUNZE"
+  name             : "Ma Runze"
   # pronouns         : "He/His"  
   bio              : "This is me"
   location         : "Kuala Lumpur, Malaysia"
