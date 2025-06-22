@@ -16,12 +16,14 @@ Education
 
 Work experience
 ======
-* *Mar 2024 - Present:* AI Operator and Developer       ANTALYA TECH
+* *Mar 2024 - Present:* **AI Operator and Developer**
+  * ANTALYA TECH       
   * Developed the IELTS writing AI tool IELTS Master; designed and iterated prompt templates.
   * Created SQL reports to monitor user growth, retention, and conversion; informed feature and content strategies.
   * Analyzed user segmentation to identify patterns among high-repeat users, supporting community and marketing.
 
-* *Nov 2024 - Feb 2025:* Data Analyst Intern          Juxin Financial Consulting Co., Ltd.
+* *Nov 2024 - Feb 2025:* **Data Analyst Intern**          
+  * Juxin Financial Consulting Co., Ltd.
   * Reconciled client bank and ledger records using SQL; supported financial reports via Excel pivots and formulas.
   * Applied large language models and OCR to automate invoice classification and summary generation.
   * Built a lightweight Power BI dashboard powered by SQL-generated data sources for client-level financial analysis.
