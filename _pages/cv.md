@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Monash University Malaysia, 2024-2026 (expected)
+* **Monash University Malaysia**, 2024-2026 (expected)
   * Master of Artificial Intelligence
-* Huazhong University of Science and Technology, 2020-2024
+* **Huazhong University of Science and Technology**, 2020-2024
   * B.Eng. in Automation
 
 Work experience
