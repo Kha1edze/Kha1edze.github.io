@@ -16,20 +16,49 @@ Education
 * **Huazhong University of Science and Technology**, 2020-2024
   * B.Eng. in Automation
 
-Experience
+Work Experience
 ======
-* *Mar 2024 - Present:* **AI Operator and Developer**
-  * ANTALYA TECH       
-  * Developed the IELTS writing AI tool IELTS Master; designed and iterated prompt templates.
-  * Created SQL reports to monitor user growth, retention, and conversion; informed feature and content strategies.
-  * Analyzed user segmentation to identify patterns among high-repeat users, supporting community and marketing.
+* *Nov 2025 - Present:* **Research Assistant**
+  * *[Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi)*
+  * Focus on processing and generating multimodal brain signals **EEG** and **fNIRS** for **BCI** research applications.
 
-* *Nov 2024 - Feb 2025:* **Data Analyst Intern**          
-  * Juxin Financial Consulting Co., Ltd.
-  * Reconciled client bank and ledger records using SQL; supported financial reports via Excel pivots and formulas.
-  * Applied large language models and OCR to automate invoice classification and summary generation.
-  * Built a lightweight Power BI dashboard powered by SQL-generated data sources for client-level financial analysis.
-  
+* *Mar 2024 - Present:* **AI Product Operations Specialist**
+  * *Antalya Technology*
+  * Designed core prompts for "IELTS Master AI," building and optimizing a foundational template framework.
+  * Managed social media and website maintenance, ensuring stable content updates and platform performance.
+  * Extracted user behavioral data via **SQL**, built dashboards with **Power BI**, and created visualized reports.
+  * Iterated prompt templates using user feedback and data insights to improve product experience.
+
+* *Nov 2024 - Feb 2025:* **Data Analysis Intern**
+  * *Juxin Financial Consulting Co., Ltd.*
+  * Integrated **OCR** with large model **APIs** to automate invoice processing, improving reconciliation efficiency.
+  * Reconciled financial transactions and built visual dashboards, semi-automating monthly reports.
+  * Assisted in building a client data management system, unifying financial data for quick queries and traceability.
+
+Research Experience
+======
+* *Oct 2025 - Present:* **Medical Visual-Language Model Fine-tuning and Distillation Optimization**
+  * Supported medical understanding via knowledge distillation from **Qwen2-VL-2B-Instruct** to **moondream2**.
+  * Fine-tuned models on **MIMIC-CXR-JPG** and **PMC-VQA** datasets to enhance medical scenario adaptability.
+
+* *Nov 2023 - Jun 2024:* **Drone-Based Dual-Modal Vehicle Detection**
+  * Enhanced robust vehicle detection in complex environments via visible/infrared feature fusion based on **YOLO**.
+  * Validated and optimized models on **DroneVehicle** dataset, adapted for embedded platform deployment.
+
+* *Jul 2023 - Aug 2023:* **AI Ethics Project**
+  * *North Carolina State University, USA*
+  * Researched core **AI** ethics controversies and built a multi-dimensional assessment framework.
+  * Authored an English report with ethical guidelines, receiving positive supervisor feedback.
+
+* *Feb 2023 - Jul 2023:* **Pain Intensity Estimation based on Spatio-Temporal Neural Networks**
+  * Compared spatio-temporal networks on **UNBC-McMaster**, optimizing feature extraction and temporal modeling.
+  * Used cross-validation for evaluation, identifying hybrid model advantages to support non-invasive pain assessment.
+
+* *Nov 2022 - Feb 2023:* **Ensemble Learning with VAE for Breast Cancer Classification**
+  * Proposed **Bagging & Stacking** framework for breast cancer diagnosis, addressing dataset imbalance problem.
+  * Integrated **VAE** for data augmentation/noise reduction, with feature importance selection to optimize performance.
+  * Provided a superior clinical auxiliary diagnostic solution, enhancing real-world applicability.
+
 Skills
 ======
 * Programming: Python > C = Matlab > Java > C++
