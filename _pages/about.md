@@ -27,28 +27,30 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 💼 Work Experience
 
-**<img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi)** — Research Assistant (November 2025 - Present)
-- Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
+- 2025.11-Present: <img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi) ***Research Assistant***
+  - Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
 
-**<img src="images/ANTALYA.jpg" alt="ANTALYA" width="40" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology)** — AI Product Tech Lead / Operations (March 2024 - Present)
-- Designed core prompts for <img src="images/zmielts.png" alt="zmielts" width="40" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
-- Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
+- 2024.03-Present: <img src="images/ANTALYA.jpg" alt="ANTALYA" width="40" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology) ***AI Product Tech Lead / Operations***
+  - Designed core prompts for <img src="images/zmielts.png" alt="zmielts" width="40" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
+  - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
-**Juxin Financial Consulting Co., Ltd.** — Data Analysis Intern (November 2024 - February 2025)
-- Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
+- 2024.11-2025.02:  Juxin Financial Consulting Co., Ltd. ***Data Analyst***
+  - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
 
 # 🎓 Education
 
-- <img src="images/monash.png" alt="monash" width="40" /> **[Monash University Malaysia** — Master of Artificial Intelligence](https://www.monash.edu.my/) (July 2024 - November 2026)
-- <img src="images/hust.png" alt="HUST" width="40" /> **[Huazhong University of Science and Technology](https://www.hust.edu.cn/)** — B.Eng. in Automation (September 2020 - June 2024)
+- 2024.07-2026.11: <img src="images/monash.png" alt="monash" width="40" /> [Monash University Malaysia](https://www.monash.edu.my/) ***Master of Artificial Intelligence***
+- 2020.09-2024.06: <img src="images/hust.png" alt="HUST" width="40" /> [Huazhong University of Science and Technology](https://www.hust.edu.cn/) ***B.Eng. in Automation***
 
 # 🎖 Honors and Awards
 
-- **MathorCup College Math Modeling Challenge** — First Prize (Top 5%), May 2022
-- **Technology Innovation Scholarship** — 1/30, September 2022
-- **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%), February 2022
-- **RoboCom Robotics Developer Competition** — Third Prize, July 2023
-- **Social Welfare Scholarship** — 1/30, September 2021
+- 2023.07: **RoboCom Robotics Developer Competition** — Third Prize 
+- 2022.05: **MathorCup College Math Modeling Challenge** — First Prize (Top 5%)
+- 2022.09: **Technology Innovation Scholarship** — 1/30
+- 2022.08: **Certificate of Professional Knowledge Assessment in Mathematical Modeling** - Issued by the Ministry of Industry and Information Technology
+- 2022.08: **Certificate of the University -Artificial Intelligence Training Camp** - Issued by the Ministry of Education
+- 2022.02: **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%)
+- 2021.09: **Social Welfare Scholarship** — 1/30
 
 # 💡 Skills
 
