@@ -17,29 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Runze Ma**, an AI enthusiast with passion for bioelectronics, medical AI, and interpretable machine learning. Currently pursuing a Master's degree in Artificial Intelligence at Monash University, I have worked across research, product development, and business intelligence roles.
+I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing interpretable machine learning solutions for healthcare applications.
+
+I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
 # 📝 Publications
 
 - P. Wu, **R. Ma** and T. T. Toe, "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN," *ICEEM*, 2023.
 
-# 🎓 Education
-
-- **Monash University** — Master of Artificial Intelligence (July 2024 - November 2026)
-- **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
-
-
 # 💼 Work Experience
 
-**Laboratory of Advanced Bioelectronics (SUAT)** — Research Assistant (November 2025 - Present)
+**[Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi)** — Research Assistant (November 2025 - Present)
 - Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
 
-**Antalya Technology** — AI Product Tech Lead / Operations (March 2024 - Present)
-- Designed core prompts for IELTS Master, constructing a structured Chain-of-Thought framework to improve stability.
+**[Antalya Technology](https://www.linkedin.com/company/antalya-technology)** — AI Product Tech Lead / Operations (March 2024 - Present)
+- Designed core prompts for [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
 - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
 **Juxin Financial Consulting Co., Ltd.** — Data Analysis Intern (November 2024 - February 2025)
 - Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
+
+# 🎓 Education
+
+- **Monash University Malaysia** — Master of Artificial Intelligence (July 2024 - November 2026)
+- **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
 
 # 🎖 Honors and Awards
 
