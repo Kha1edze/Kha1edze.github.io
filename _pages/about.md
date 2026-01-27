@@ -17,42 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm **Runze Ma**, an AI enthusiast with passion for bioelectronics, medical AI, and interpretable machine learning. Currently pursuing a Master's degree in Artificial Intelligence at Monash University, I have worked across research, product development, and business intelligence roles.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Contact:** +86 133 0930 9972 | amazingrzm@gmail.com | [https://Kha1edze.github.io](https://Kha1edze.github.io)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: Joined Laboratory of Advanced Bioelectronics (SUAT) as Research Assistant, developing multimodal pre-training models for biosignals.
+- *2025.03*: Proposed BEAT-Net, an interpretable ECG diagnosis framework using Biological Tokenization, achieving SOTA accuracy with only 30% labeled data.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- P. Wu, **R. Ma** and T. T. Toe, "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN," *ICEEM*, 2023.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **MathorCup College Math Modeling Challenge** — First Prize (Top 5%), May 2022
+- **Technology Innovation Scholarship** — 1/30, September 2022
+- **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%), February 2022
+- **RoboCom Robotics Developer Competition** — Third Prize, July 2023
+- **Social Welfare Scholarship** — 1/30, September 2021
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎓 Education
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Monash University** — Master of Artificial Intelligence (July 2024 - November 2026)
+- **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
+
+
+# � Work Experience
+
+**Laboratory of Advanced Bioelectronics (SIAT)** — Research Assistant (November 2025 - Present)
+- Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
+
+**Antalya Technology** — AI Product Tech Lead / Operations (March 2024 - Present)
+- Designed core prompts for IELTS Master, constructing a structured Chain-of-Thought framework to improve stability.
+- Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
+
+**Juxin Financial Consulting Co., Ltd.** — Data Analysis Intern (November 2024 - February 2025)
+- Integrated **OCR** with LLM **APIs** to automate invoice processing, boosting reconciliation efficiency by 50%.
+# 🔧 Project Experience
+
+**BEAT-Net: Interpretable ECG Diagnosis Framework** (March 2025 - January 2026)
+- Proposed **Biological Tokenization** to reconstruct **ECG** into **Token** sequences, modeling diagnosis as an **NLP** task.
+- Designed biomimetic encoders to decouple cardiac morphological features from temporal heart rhythm features.
+- Achieved fully supervised **SOTA** accuracy on three benchmark datasets using only **30%** labeled data.
+
+**LiteMedCoT-VL: Medical VLM via Chain-of-Thought Distillation** (October 2025 - Present)
+- Generated high-quality Chain-of-Thought (**CoT**) data for medical datasets **PMC-VQA** using **Qwen-VL-Max**.
+- Fine-tuned **Qwen-VL-2B** via **QLoRA** using synthetic CoT, distilling large model reasoning to the edge.
+
+**Drone-Based Dual-Modal Vehicle Detection** (November 2023 - June 2024)
+- Improved **YOLO** with RGB-IR feature fusion to resolve detection failures in complex lighting and weather.
+- Validated on **DroneVehicle** dataset and optimized quantization for real-time embedded deployment.
+
+**AI Ethics Project, North Carolina State University** (July 2023 - August 2023)
+- Surveyed AI ethical controversies and built a multi-dimensional assessment framework.
+- Authored a report proposing targeted ethical guidelines, receiving positive mentor feedback.
+
+**Pain Intensity Estimation via Spatio-Temporal Networks** (February 2023 - July 2023)
+- Optimized feature extraction on **UNBC-McMaster** dataset by comparing multiple spatio-temporal architectures.
+- Validated hybrid model advantages for non-invasive pain assessment via cross-validation.
+
+**Ensemble Learning with VAE for Breast Cancer Classification** (November 2022 - February 2023)
+- Proposed a **Bagging & Stacking** framework to address sample imbalance and improve reliability.
+- Integrated **VAE** for data augmentation and feature selection to optimize classification performance.
+- Delivered a clinical diagnostic solution surpassing traditional methods in applicability.
+
+# 💡 Skills
+
+- **Programming:** Python > C = Matlab > Java > C++
+- **Software:** Office, SQL, Power BI, Figma, Git
+- **Languages:** Chinese (Native); English (IELTS 6.5); Arabic (Basic)
