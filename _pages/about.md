@@ -23,7 +23,7 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 📝 Publications
 
-- P. Wu, **R. Ma** and T. T. Toe, "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN," *ICEEM*, 2023.
+- [Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023.](https://ieeexplore.ieee.org/abstract/document/10319517)
 
 # 💼 Work Experience
 
