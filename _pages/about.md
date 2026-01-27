@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing interpretable machine learning solutions for healthcare applications.
+I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
 I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
@@ -39,8 +39,8 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 🎓 Education
 
-- <img src="images/monash.png" alt="monash" width="40" /> **Monash University Malaysia** — Master of Artificial Intelligence (July 2024 - November 2026)
-- <img src="images/hust.png" alt="HUST" width="40" /> **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
+- <img src="images/monash.png" alt="monash" width="40" /> **[Monash University Malaysia** — Master of Artificial Intelligence](https://www.monash.edu.my/) (July 2024 - November 2026)
+- <img src="images/hust.png" alt="HUST" width="40" /> **[Huazhong University of Science and Technology](https://www.hust.edu.cn/)** — B.Eng. in Automation (September 2020 - June 2024)
 
 # 🎖 Honors and Awards
 
