@@ -27,11 +27,11 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 💼 Work Experience
 
-**[Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi)** — Research Assistant (November 2025 - Present)
+**<img src="images/LAB.png" alt="LAB" width="40" /> [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi)** — Research Assistant (November 2025 - Present)
 - Developed and trained multimodal pre-training models for biosignals (EEG/ECG/PPG/fNIRS).
 
-**[Antalya Technology](https://www.linkedin.com/company/antalya-technology)** — AI Product Tech Lead / Operations (March 2024 - Present)
-- Designed core prompts for [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
+**<img src="images/ANTALYA.jpg" alt="ANTALYA" width="40" /> [Antalya Technology](https://www.linkedin.com/company/antalya-technology)** — AI Product Tech Lead / Operations (March 2024 - Present)
+- Designed core prompts for <img src="images/zmielts.png" alt="zmielts" width="40" /> [IELTS Master](https://zmielts.cn), constructing a structured Chain-of-Thought framework to improve stability.
 - Extracted user data via **SQL** and built automated **Power BI** dashboards to drive product iteration.
 
 **Juxin Financial Consulting Co., Ltd.** — Data Analysis Intern (November 2024 - February 2025)
@@ -39,8 +39,8 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 🎓 Education
 
-- **Monash University Malaysia** — Master of Artificial Intelligence (July 2024 - November 2026)
-- **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
+- <img src="images/monash.png" alt="monash" width="40" /> **Monash University Malaysia** — Master of Artificial Intelligence (July 2024 - November 2026)
+- <img src="images/HUST.png" alt="HUST" width="40" /> **Huazhong University of Science and Technology** — B.Eng. in Automation (September 2020 - June 2024)
 
 # 🎖 Honors and Awards
 
