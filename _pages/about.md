@@ -39,16 +39,16 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 🎓 Education
 
-- 2024.07-2026.11: <img src="images/monash.png" alt="monash" width="40" /> [Monash University Malaysia](https://www.monash.edu.my/) ***Master of Artificial Intelligence***
-- 2020.09-2024.06: <img src="images/hust.png" alt="HUST" width="40" /> [Huazhong University of Science and Technology](https://www.hust.edu.cn/) ***B.Eng. in Automation***
+- 2024.07-2026.11: <img src="images/monash.png" alt="monash" width="40" /> Monash University Malaysia - ***Master of Artificial Intelligence***
+- 2020.09-2024.06: <img src="images/hust.png" alt="HUST" width="40" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
 
 # 🎖 Honors and Awards
 
 - 2023.07: **RoboCom Robotics Developer Competition** — Third Prize 
 - 2022.05: **MathorCup College Math Modeling Challenge** — First Prize (Top 5%)
 - 2022.09: **Technology Innovation Scholarship** — 1/30
-- 2022.08: **Certificate of Professional Knowledge Assessment in Mathematical Modeling** - Issued by the Ministry of Industry and Information Technology
-- 2022.08: **Certificate of the University -Artificial Intelligence Training Camp** - Issued by the Ministry of Education
+- 2022.08: **Certificate of Professional Knowledge Assessment in Mathematical Modeling** - Issued by Talent Exchange Center, Ministry Of Industry And Information Technology
+- 2022.08: **Certificate of the University Artificial Intelligence Training Camp** - Issued by China Center for International People-to-People Exchange, Ministry of Education
 - 2022.02: **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%)
 - 2021.09: **Social Welfare Scholarship** — 1/30
 
