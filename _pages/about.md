@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍💻 About Me
 I'm **Runze Ma**, a passionate researcher and practitioner specializing in **Medical AI** and **Biomedical Intelligence**. Currently pursuing a Master of Artificial Intelligence at [Monash University Malaysia](https://www.monash.edu.my/) under the supervision of [Chee-ming Ting](https://research.monash.edu/en/persons/chee-ming-ting/), I focus on developing lightweight medical Vision-Language Models for healthcare applications.
 
 I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](https://www.x-mol.com/groups/liao_caizhi), led by [Liao Caizhi (廖才智)](https://suat-sz.edu.cn/swyxgcxy/info/1052/1128.htm), where I develop multimodal pre-training models for biosignals. Additionally, I'm a key contributor to [IELTS Master](https://zmielts.cn) at [Antalya Technology](https://www.linkedin.com/company/antalya-technology), an AI startup where I lead product development and technical operations.
 
 # 📝 Publications
 
-- [Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023.](https://ieeexplore.ieee.org/abstract/document/10319517)
+- Wu, Peicheng, **Runze Ma**, and Teoh Teik Toe. "Stacking-Enhanced Bagging Ensemble Learning for Breast Cancer Classification with CNN." *2023 3rd International Conference on Electronic Engineering (ICEEM)*. IEEE, 2023. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10319517)
 
 # 💼 Work Experience
 
@@ -52,7 +53,7 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 - 2022.02: **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%)
 - 2021.09: **Social Welfare Scholarship** — 1/30
 
-# 💡 Skills
+# 🔧 Skills
 
 - **Programming:** Python > C = Matlab > Java > C++
 - **Software:** Office, SQL, Power BI, Figma, Git
