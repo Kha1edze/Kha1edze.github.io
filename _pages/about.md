@@ -40,8 +40,8 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 🎓 Education
 
-- 2024.07-2026.11: <img src="images/monash.png" alt="monash" width="40" /> Monash University Malaysia - ***Master of Artificial Intelligence***
-- 2020.09-2024.06: <img src="images/hust.png" alt="HUST" width="40" /> Huazhong University of Science and Technology - ***B.Eng. in Automation***
+- 2024.07-2026.11: <img src="images/monash.png" alt="monash" width="40" /> [Monash University Malaysia](https://www.monash.edu.my/) - ***Master of Artificial Intelligence***
+- 2020.09-2024.06: <img src="images/hust.png" alt="HUST" width="40" /> [Huazhong University of Science and Technology](https://www.hust.edu.cn/) - ***B.Eng. in Automation***
 
 # 🎖 Honors and Awards
 
