@@ -45,12 +45,12 @@ I work as a Research Assistant at the [Laboratory of Advanced Bioelectronics](ht
 
 # 🎖 Honors and Awards
 
-- 2023.07: **RoboCom Robotics Developer Competition** — Third Prize 
-- 2022.05: **MathorCup College Math Modeling Challenge** — First Prize (Top 5%)
+- 2023.07: [**RAICOM Robotics Developer Competition**](https://www.raicom.com.cn/) — Third Prize 
 - 2022.09: **Technology Innovation Scholarship** — 1/30
-- 2022.08: **Certificate of Professional Knowledge Assessment in Mathematical Modeling** - Issued by Talent Exchange Center, Ministry Of Industry And Information Technology
-- 2022.08: **Certificate of the University Artificial Intelligence Training Camp** - Issued by China Center for International People-to-People Exchange, Ministry of Education
-- 2022.02: **MCM/ICM Mathematical Contest in Modeling** — Honorable Mention (Top 20%)
+- 2022.08: **Certificate of Professional Knowledge Assessment in Mathematical Modeling** - Issued by [Talent Exchange Center, Ministry Of Industry And Information Technology](https://www.miitec.cn/)
+- 2022.08: **Certificate of the University Artificial Intelligence Training Camp** - Issued by [China Center for International People-to-People Exchange, Ministry of Education](https://ppe.ccipe.edu.cn/)
+- 2022.05: [**MathorCup College Math Modeling Challenge**](https://www.mathorcup.org/) — First Prize (Top 5%)
+- 2022.02: [**Mathematical Contest in Modeling**](https://www.comap.com/) — Honorable Mention (Top 20%)
 - 2021.09: **Social Welfare Scholarship** — 1/30
 
 # 🔧 Skills
